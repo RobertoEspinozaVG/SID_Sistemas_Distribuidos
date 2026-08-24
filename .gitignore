@@ -1,0 +1,15 @@
+# Dependencias generadas (NUNCA subir a GitHub)
+node_modules/
+
+# Archivos de compilación
+dist/
+dist-ssr/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Archivos del sistema u otros
+.DS_Store
+.env
+.env.local
